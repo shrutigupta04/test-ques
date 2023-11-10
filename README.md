@@ -1,2 +1,2 @@
 # test-ques
-Solutions till ILabs Test6.
+Solutions till ILabs Test11.
